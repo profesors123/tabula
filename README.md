@@ -1,0 +1,2 @@
+# tabula
+ķīmijas tabula
